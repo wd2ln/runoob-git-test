@@ -2,7 +2,11 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+<<<<<<< HEAD
       <module fileurl="file://$PROJECT_DIR$/.idea/runoob_test.iml" filepath="$PROJECT_DIR$/.idea/runoob_test.iml" />
+=======
+      <module fileurl="file://$PROJECT_DIR$/.idea/runoob-git-test.iml" filepath="$PROJECT_DIR$/.idea/runoob-git-test.iml" />
+>>>>>>> origin/master
     </modules>
   </component>
 </project>
